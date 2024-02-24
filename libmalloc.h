@@ -1,3 +1,4 @@
+// fixCommits
 #include <string.h>
 #ifndef SRC_MALLOC_H_
 #define SRC_MALLOC_H_
